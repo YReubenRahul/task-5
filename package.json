@@ -11,6 +11,9 @@
   "main": "./index.js",
   "browser": "./standalone.js",
   "unpkg": "./standalone.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "engines": {
     "node": ">=10.13.0"
   },
